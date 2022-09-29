@@ -1,0 +1,51 @@
+
+.pick_lang{
+    float: left;
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 90%;
+}
+.run_button{
+    float: right;
+    margin-right:20px;
+    margin-top: 10px;
+}
+
+.write_code{
+    padding: 20px;
+    margin-top:20px;
+}
+.write_code_field{
+    height: 400px;
+}
+
+
+.output{
+    padding:20px;
+}
+.error{
+    background-color: red;
+   
+    
+    width: 50%;
+   
+    border-radius: 10px;
+    height: 190px;
+    float:right;
+    padding:10px;
+    
+}
+
+
+.result{
+    background-color: green;
+    float:left;
+    
+    width: 50%;
+   color: white;
+    padding:10px;
+    border-radius: 10px;
+    height: 190px;
+    float:right
+    
+}
