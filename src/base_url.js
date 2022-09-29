@@ -1,2 +1,2 @@
-const url = "http://localhost:5000"
+const url = "https://ide-back-end.herokuapp.com"
 export default url
